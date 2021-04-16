@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ldidi/static/css/main.bdc88705.chunk.css",
+    "main.js": "/Ldidi/static/js/main.ef7a79f9.chunk.js",
+    "main.js.map": "/Ldidi/static/js/main.ef7a79f9.chunk.js.map",
+    "runtime-main.js": "/Ldidi/static/js/runtime-main.0f6159a1.js",
+    "runtime-main.js.map": "/Ldidi/static/js/runtime-main.0f6159a1.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Ldidi/static/css/2.fe359a49.chunk.css",
+    "static/js/2.583fb841.chunk.js": "/Ldidi/static/js/2.583fb841.chunk.js",
+    "static/js/2.583fb841.chunk.js.map": "/Ldidi/static/js/2.583fb841.chunk.js.map",
+    "static/js/3.43623232.chunk.js": "/Ldidi/static/js/3.43623232.chunk.js",
+    "static/js/3.43623232.chunk.js.map": "/Ldidi/static/js/3.43623232.chunk.js.map",
+    "index.html": "/Ldidi/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Ldidi/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.bdc88705.chunk.css.map": "/Ldidi/static/css/main.bdc88705.chunk.css.map",
+    "static/js/2.583fb841.chunk.js.LICENSE.txt": "/Ldidi/static/js/2.583fb841.chunk.js.LICENSE.txt",
+    "static/media/Application.css": "/Ldidi/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f6159a1.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.583fb841.chunk.js",
+    "static/css/main.bdc88705.chunk.css",
+    "static/js/main.ef7a79f9.chunk.js"
+  ]
+}
